@@ -4,4 +4,4 @@ return x+y
 
 #Tom needs to do this
 def mul(x,y)
-return None
+return x*y
